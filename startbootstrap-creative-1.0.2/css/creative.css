@@ -318,6 +318,10 @@ header .header-content .header-content-inner p {
     }
 }
 
+.portfolio-box-no-link{
+    cursor: none;
+}
+
 .call-to-action h2 {
     margin: 0 auto 20px;
 }
