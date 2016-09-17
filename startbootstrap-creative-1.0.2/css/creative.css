@@ -33,7 +33,8 @@ a {
 
 a:hover,
 a:focus {
-    color: #eb3812;
+    color: #35465c;
+    text-decoration: none;
 }
 
 h1,
@@ -484,8 +485,8 @@ body {
 
 
 .logoRS{
-    width: 50px;
-    height: 50px;
+    width: 55px;
+    height: 55px;
 }
 
 .logoCenter{
@@ -496,4 +497,16 @@ body {
     margin-top: -15px;
     width: 50px;
     height: 50px;
+}
+
+#listeRole{
+    list-style-type: none;
+}
+
+#lienListe{
+    color: #ffffff;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+    text-decoration: none;
 }
